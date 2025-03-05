@@ -55,9 +55,14 @@ The synthetic dataset simulates real-world loan application data with the follow
 ## Project Structure
 ```
 Essential-Data-Requirements\n
-├── project.py # Single file containing data generation, model training, and prediction modes.\n
-├── README.md # This README file.\n
-└── requirements.txt # List of required Python packages.\n
+├── predict.py
+├── train.py
+├── loan_model.pkl
+├── loan_applications.csv
+├── scaler.pkl
+├── encoder.pkl
+├── README.md 
+└── requirements.txt 
 ```
 ---
 
