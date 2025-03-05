@@ -54,7 +54,7 @@ The synthetic dataset simulates real-world loan application data with the follow
 
 ## Project Structure
 ```
-Essential-Data-Requirements\n
+Essential-Data-Requirements:
 ├── predict.py
 ├── train.py
 ├── loan_model.pkl
